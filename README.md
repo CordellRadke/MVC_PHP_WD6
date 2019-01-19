@@ -1,6 +1,10 @@
 # PHP-MVC-CRUD 
 Cordell Radke - WD6-LAMP-QUIZ
 
+# Video Demo
+
+* [Full PHP MVC CRUD DEMO](https://www.youtube.com/watch?v=1Rit8vXA4t8&feature=youtu.be)
+
 #  Student Grades Report
 
 This is a simple grade calculator app that allows teachers to plugin a grade percentage such as (80) and the calculator will report back the letter grade which in this case would be a (B). This app stores all of the student data in mySQL databases and also will display the student's name and id. You are also able to delete and edit students that need to be updated. Enjoy! :)
